@@ -1,4 +1,4 @@
-<img src="https://github.com/prajwalbhatia/prajwalbhatia/blob/00c5149734e91e9b5b6cf4d222246c5b48629cfa/banner.png" alt="banner that says about PRAJWAL BHATIA">  
+<img src="https://github.com/prajwalbhatia/prajwalbhatia/blob/main/banner.png" alt="banner that says about PRAJWAL BHATIA">  
   
 <h1 align="center">Hi 👋, I'm PRAJWAL BHATIA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
