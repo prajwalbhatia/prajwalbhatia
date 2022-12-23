@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Habstreak](https://habstreak.com)
 
-- 👯 I’m looking for contributor on [interviewPrep](https://github.com/prajwalbhatia/prajwalbhatia/interviewPrep)
+- 👯 I’m looking for contributor on [frontend_skill_up](https://github.com/prajwalbhatia/prajwalbhatia/frontend_skill_up)
 
 - 👨‍💻 All of my projects are available at [https://prajwalbhatia.com](https://prajwalbhatia.com)
 
