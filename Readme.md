@@ -1,31 +1,33 @@
-<h1 align="center">Hi 👋, I'm Prajwal Bhatia</h1>
-<h3 align="center">A passionate frontend developer from India who love to build, and do everything related to frontend and there is a high chance that I am currently learning something.</h3>
+<div align="center">
 
+# Hi, I'm Prajwal 👋
 
-<p align="left"> <a href="https://twitter.com/bhatia_prajwal" target="blank"><img src="https://img.shields.io/twitter/follow/bhatia_prajwal?logo=twitter&style=for-the-badge" alt="bhatia_prajwal" /></a> </p>
+### Senior Frontend Engineer · Curious builder
 
-- 🔭 I’m currently working on [Habstreak](https://habstreak.com)
+I turn complex problems into simple, thoughtful web experiences. Frontend is where I've spent most of my career; these days I'm also building and learning across backend systems, AI, and whatever catches my curiosity.
 
-- 👯 I’m looking for contributor on [frontend_skill_up](https://github.com/prajwalbhatia/frontend_skill_up)
+[Portfolio](https://prajwalbhatia.com) · [Selected work](https://prajwalbhatia.com/work) · [Résumé](https://prajwalbhatia.com/resume) · [LinkedIn](https://www.linkedin.com/in/prajwalbhatia/)
 
-- 👨‍💻 All of my projects are available at [https://prajwalbhatia.com](https://prajwalbhatia.com)
+</div>
 
-- 📝 I regularly write articles on [https://prajwalbhatia.hashnode.dev/](https://prajwalbhatia.hashnode.dev/)
+---
 
-- 💬 Ask me about **React, Redux, Javascript**
+### What I work with
 
-- 📫 How to reach me **prajwal6bhatia@gmail.com**
+**Frontend:** React, TypeScript, JavaScript, Next.js, Redux, accessibility, and web performance  
+**Beyond the browser:** Node.js, Express, queues, APIs, and automation  
+**Exploring:** AI and new ways to build useful products
 
-- 📄 Know about my experiences [https://prajwalbhatia.com/resume](https://prajwalbhatia.com/resume)
+### Selected work
 
+- **[Making a busy page faster](https://prajwalbhatia.com/projects/web-vitals)** — Improved the 75th percentile Largest Contentful Paint from 5.45s to 3.17s on a high-traffic flow.
+- **[Building a thumbnail pipeline](https://prajwalbhatia.com/projects/thumbnail-pipeline)** — Built a two-stage image generation system using page metadata and a browser fallback.
+- **[Making a long application easier to finish](https://prajwalbhatia.com/projects/application-flow)** — Improved an application flow with draft recovery and a simpler experience.
 
+More case studies and the details behind them are on [my portfolio](https://prajwalbhatia.com/work).
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/prajwal6bhJ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/prajwal6bhJ" /></a></p><br><br>
+### Let's connect
 
-<br/>
+I'm always interested in thoughtful frontend work, useful products, and conversations about what we're learning.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalbhatia&show_icons=true&locale=en" alt="prajwalbhatia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalbhatia&" alt="prajwalbhatia" /></p>
-
+[Email me](mailto:prajwal6bhatia@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prajwalbhatia/) · [Watch my explainers](https://www.youtube.com/@prajwalbhatia)
