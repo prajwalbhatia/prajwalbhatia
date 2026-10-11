@@ -4,7 +4,7 @@
 
 ### Senior Frontend Engineer · Curious builder
 
-I turn complex problems into simple, thoughtful web experiences. Frontend is where I've spent most of my career; these days I'm also building products end to end, including Ownfolio.
+I turn complex problems into simple, thoughtful web experiences. Frontend is where I've spent most of my career; I'm currently building Ownfolio, a place to preserve the work behind a career.
 
 [Portfolio](https://prajwalbhatia.com) · [Résumé](https://prajwalbhatia.com/resume) · [LinkedIn](https://www.linkedin.com/in/prajwalbhatia/)
 
@@ -12,11 +12,11 @@ I turn complex problems into simple, thoughtful web experiences. Frontend is whe
 
 ---
 
-### Ownfolio
+### Currently building: Ownfolio
 
-I built Ownfolio after struggling to reconstruct my own engineering work from old tickets, conversations, and repositories. It gives people a place to capture projects and decisions while they are fresh, keep supporting evidence, request acknowledgements from colleagues, and publish only the career records they choose.
+I'm building Ownfolio because I've struggled to reconstruct my own engineering work from old tickets, conversations, and repositories. It gives people a place to capture projects and decisions while they are fresh, keep supporting evidence, request acknowledgements from colleagues, and publish only the career records they choose.
 
-I designed and built the first version solo. [Explore the live product →](https://ownfolio.in)
+The first version is live. I designed and built it solo, and I'm continuing to improve it. [Explore the product →](https://ownfolio.in)
 
 ### What I work with
 
